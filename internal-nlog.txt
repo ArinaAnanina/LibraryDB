@@ -1,0 +1,108 @@
+2022-07-08 14:54:04.4189 Info Message Template Auto Format enabled
+2022-07-08 14:54:04.4490 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 14:54:04.5393 Info Adding target FileTarget(Name=file)
+2022-07-08 14:54:05.0956 Info Validating config: TargetNames=file, ConfigItems=23, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 14:54:10.3191 Info Validating config: TargetNames=file, ConfigItems=23, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 14:54:10.3468 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: FileTarget(Name=file). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Info has been skipped.
+2022-07-08 14:58:16.9896 Info Message Template Auto Format enabled
+2022-07-08 14:58:17.0099 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 14:58:17.1008 Info Adding target FileTarget(Name=file)
+2022-07-08 14:58:17.2530 Info Validating config: TargetNames=file, ConfigItems=23, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 14:58:23.1087 Info Validating config: TargetNames=file, ConfigItems=23, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 14:58:23.1360 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: FileTarget(Name=file). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Info has been skipped.
+2022-07-08 14:59:23.6416 Info Message Template Auto Format enabled
+2022-07-08 14:59:23.6591 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 14:59:23.7416 Info Adding target FileTarget(Name=file)
+2022-07-08 14:59:24.2221 Info Validating config: TargetNames=file, ConfigItems=23, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 14:59:28.7803 Info Validating config: TargetNames=file, ConfigItems=23, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 14:59:28.8089 Warn Logger: Microsoft.Hosting.Lifetime configured with duplicate output to target: FileTarget(Name=file). LoggingRule with NamePattern='Microsoft.Hosting.Lifetime' and Level=Info has been skipped.
+2022-07-08 15:01:57.1199 Info Message Template Auto Format enabled
+2022-07-08 15:01:57.1398 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:01:57.2565 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:01:57.2565 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:01:57.3418 Info Validating config: TargetNames=file-info, file-debug, ConfigItems=40, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:02:02.0597 Info Validating config: TargetNames=file-info, file-debug, ConfigItems=40, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:10:44.3011 Info Message Template Auto Format enabled
+2022-07-08 15:10:44.4429 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:10:44.7656 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:10:44.7656 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:10:45.3076 Info Validating config: TargetNames=file-info, file-debug, ConfigItems=40, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:10:54.0036 Info Validating config: TargetNames=file-info, file-debug, ConfigItems=40, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:10:54.3545 Info Shutdown() called. Logger closing...
+2022-07-08 15:10:54.3545 Info Closing old configuration.
+2022-07-08 15:10:54.3784 Info Logger has been closed down.
+2022-07-08 15:11:39.2843 Info Message Template Auto Format enabled
+2022-07-08 15:11:39.3493 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:11:39.4829 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:11:39.4876 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:11:39.8670 Info Validating config: TargetNames=file-info, file-debug, ConfigItems=40, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:11:47.5270 Info Validating config: TargetNames=file-info, file-debug, ConfigItems=40, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:15:06.1267 Info Message Template Auto Format enabled
+2022-07-08 15:15:06.1467 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:15:06.2340 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:15:06.2372 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:15:06.2372 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:15:06.3043 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:15:14.5637 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:18:25.8033 Info Message Template Auto Format enabled
+2022-07-08 15:18:25.9429 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:18:26.0883 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:18:26.1296 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:18:26.1296 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:18:26.2060 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:18:31.9695 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:26:08.6290 Info Message Template Auto Format enabled
+2022-07-08 15:26:08.7941 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:26:08.9546 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:26:08.9546 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:26:08.9710 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:26:09.5114 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:26:16.5700 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:28:57.1850 Info Message Template Auto Format enabled
+2022-07-08 15:28:57.7078 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:28:57.8502 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:28:57.8502 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:28:57.8502 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:28:57.8984 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:29:06.4875 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:31:29.7272 Info Message Template Auto Format enabled
+2022-07-08 15:31:29.7677 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:31:29.9034 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:31:29.9034 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:31:29.9120 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:31:30.1256 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:31:38.7369 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:33:20.2583 Info Message Template Auto Format enabled
+2022-07-08 15:33:20.4242 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:33:20.5346 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:33:20.5346 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:33:20.5346 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:33:20.6573 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:33:28.6775 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:35:27.1768 Info Message Template Auto Format enabled
+2022-07-08 15:35:27.1996 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:35:27.3198 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:35:27.3198 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:35:27.3198 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:35:27.4114 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:35:36.2415 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:43:33.7609 Info Message Template Auto Format enabled
+2022-07-08 15:43:33.7924 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:43:34.0120 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:43:34.0153 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:43:34.0153 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:43:34.2964 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:43:58.5260 Info Message Template Auto Format enabled
+2022-07-08 15:43:58.5575 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:43:58.7325 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:43:58.7431 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:43:58.7431 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:43:59.0470 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:44:07.5447 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:46:14.7261 Info Message Template Auto Format enabled
+2022-07-08 15:46:14.7938 Info Loading assembly: NLog.Web.AspNetCore
+2022-07-08 15:46:14.9278 Info Adding target FileTarget(Name=file-debug)
+2022-07-08 15:46:14.9278 Info Adding target FileTarget(Name=file-info)
+2022-07-08 15:46:14.9476 Info Adding target FileTarget(Name=file-micro)
+2022-07-08 15:46:15.6824 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
+2022-07-08 15:46:19.8244 Info Validating config: TargetNames=file-micro, file-info, file-debug, ConfigItems=60, FilePath=C:\Users\Арина\source\repos\LibraryDB\bin\Debug\net5.0\nlog.config
